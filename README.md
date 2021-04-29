@@ -3,6 +3,7 @@
 <b>Estimation of different cross-population fixation indexes using parallel computing</b>
 </br>
 <b>1. Description</b>
+FSTest is a GitHub repository of Python scripts to identify and visualize genomic loci under natural selection using the "Fst" statistics described by Hudson, Nei, Weir & Cockerham, and wright as well as "di" transformation by Akey using parallel computing.
 </br>
 <b>2. Download and installation</b>
 </br>
@@ -84,5 +85,9 @@ Sample VCF and ID group input files can be downloaded form the "example" directo
 3. Manhattan plot of di values (test.win.winplot.di.png)
 <img src="https://github.com/Miarlab/FSTest/blob/main/result2/test.win.winplot.di.png" width="800"/>
 
-
-
+#References:
+1. Akey, Joshua M., et al. "Tracking footprints of artificial selection in the dog genome." Proceedings of the National Academy of Sciences 107.3 (2010): 1160-1165.
+2. Hudson, Richard R., Montgomery Slatkin, and Wayne P. Maddison. "Estimation of levels of gene flow from DNA sequence data." Genetics 132.2 (1992): 583-589.
+3. Nei, Masatoshi. "Definition and estimation of fixation indices." Evolution 40.3 (1986): 643-645.
+4. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
+5. Wright, Sewall. "The genetical structure of populations." Annals of eugenics 15.1 (1949): 323-354.
