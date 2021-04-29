@@ -23,7 +23,6 @@ FSTest package works on python 3.8 or later versions.
 </pre></br>
 <b>3. Parameter description</b>
 </br>
-
 ```py
 	Usage: python FSTest_v1.0.py --vcf  <in.vcf> --g <in.txt> --chr <int> --n <int> --m <int> --o <str>
 
