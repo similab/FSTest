@@ -4,11 +4,11 @@
 </br>
 <b>1. Description</b>
 </br>
-<b>2. Download and installation</b>
+<b>2. Download for linux</b>
 </br>
 <pre>
-        git clone https://github.com/Siavash-cloud/DEBV_calculator.git
-        tar -zxvf  PopLDdecayXXX.tar.gz
+        git clone https://github.com/Miarlab/FSTest.git;
+	chmod 775 FSTest_v1.0.py
 </pre>
 </br>
  <b>2.2. Dependencies installation</b>
