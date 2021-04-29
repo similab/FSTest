@@ -3,8 +3,9 @@
 <b>Estimation of different cross-population fixation indexes using parallel computing
 </br>
 
-Authors: Siavash Salek Ardestani, Seyed Milad Vahedi, Younes Miar</b>
+Authors: Siavash Salek Ardestani, Seyed Milad Vahedi, Younes Miar
 </br>
+
 <b>1. Description</b>
 </br>
 FSTest is a script written in Python to identify and visualize genomic loci under selection using the "Fst" statistics described by Hudson, Nei, Weir & Cockerham, and Wright as well as "di" transformation introduced by Akey. The software employs parallel computing to boost the calculation process and efforts have being made to add new features that would make it more beneficial for selection signatures analysis.
