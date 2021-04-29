@@ -2,7 +2,7 @@
 Cross-population fixation index estimation using parallel computing</b>
 1. Description</b>
 
-2. Download and installation</b>
+2. Download and installation </b>
 2.1. Method 1 download for linux/Unix and macOS:</b>
 <pre>
         git clone https://github.com/BGI-shenzhen/PopLDdecay.git
