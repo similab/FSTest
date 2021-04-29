@@ -1,8 +1,8 @@
 # FSTest
 <b>Cross-population fixation index estimation using parallel computing</b>
+</br>
 <b>1. Description</b>
 </br>
-
 <b>2. Download and installation</b>
 </br>
 <pre>
