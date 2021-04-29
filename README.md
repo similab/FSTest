@@ -22,7 +22,6 @@ FSTest package works on python 3.8 or later versions.
          pip install argparse
 </pre></br>
 <b>3. Parameter description</b>
-</br>
 ```php
 	Usage: python FSTest_v1.0.py --vcf  <in.vcf> --g <in.txt> --chr <int> --n <int> --m <int> --o <str>
 
