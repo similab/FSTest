@@ -1,8 +1,9 @@
 ![Logo](https://user-images.githubusercontent.com/52033302/116609032-435f0580-a90a-11eb-8d19-b791e713918d.png)
 
-Estimation of different cross-population fixation indexes using parallel computing
+<b>Estimation of different cross-population fixation indexes using parallel computing
 </br>
-<b>Authors: Siavash Salek Ardestani, Seyed Milad Vahedi, Younes Miar</b>
+
+Authors: Siavash Salek Ardestani, Seyed Milad Vahedi, Younes Miar</b>
 </br>
 <b>1. Description</b>
 </br>
