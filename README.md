@@ -1,9 +1,11 @@
 # FSTest
-Cross-population fixation index estimation using parallel computing</b>
+<b>Cross-population fixation index estimation using parallel computing</b>
 <b>1. Description</b>
-
+</br>
 <b>2. Download and installation</b>
+</br>
 <b>2.1. Method 1 download for linux/Unix and macOS:</b>
+</br>
 <pre>
         git clone https://github.com/BGI-shenzhen/PopLDdecay.git
         cd PopLDdecay; chmod 755 configure; ./configure
