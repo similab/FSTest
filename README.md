@@ -47,3 +47,12 @@ FSTest package works on python 3.8 or later versions.
                --dpi DPI    Plot dpi (optional)
                --o O        Output files prefix
 ```
+<b>3. Examples</b>
+</br>
+3.1. SNP-based Fst estimation</b>
+ </br>
+Sample VCF and ID group files can be downloaded form the "example" directory.</b>
+ </br>
+```py
+        python FSTest_v1.0.py --vcf sheep.vcf --g ID_Group.txt --chr 26 --n 133 --m 1 --di 1 --mp 1 --dimp 1 --sl 0.05 --dpi 600 --o test
+```
