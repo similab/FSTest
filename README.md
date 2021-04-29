@@ -22,7 +22,8 @@ FSTest package works on python 3.8 or later versions.
          pip install argparse
 </pre></br>
 <b>3. Parameter description</b>
-```php
+</br>
+<pre>
 	Usage: python FSTest_v1.0.py --vcf  <in.vcf> --g <in.txt> --chr <int> --n <int> --m <int> --o <str>
 
                -h, --help   show this help message and exit
@@ -39,5 +40,5 @@ FSTest package works on python 3.8 or later versions.
                --sl SL      Manhattan plot suggestive line (optional)
                --dpi DPI    Plot dpi (optional)
                --o O        Output files prefix
-```
+</pre></br>
 
