@@ -62,6 +62,7 @@ Sample VCF and ID group input files can be downloaded form the "example" directo
 2. Manhattan plot of Fst values</br>
 ![test snp snpplot](https://user-images.githubusercontent.com/52033302/116604939-2e33a800-a905-11eb-8b37-3851d6ea2862.png)
 
+
 3. Manhattan plot of di values</br>
 ![test snp snpplot di](https://user-images.githubusercontent.com/52033302/116604963-32f85c00-a905-11eb-8839-0abccce2cbe2.png)
 
