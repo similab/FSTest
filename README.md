@@ -1,5 +1,4 @@
-![Logo](https://user-images.githubusercontent.com/52033302/116608823-04c94b00-a90a-11eb-80d4-59f7d468365c.png)
-
+![Logo](https://user-images.githubusercontent.com/52033302/116609032-435f0580-a90a-11eb-8d19-b791e713918d.png)
 <b>Estimation of different cross-population fixation indexes using parallel computing</b>
 </br>
 <b>1. Description</b>
