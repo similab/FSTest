@@ -3,7 +3,7 @@
 <b>Estimation of different cross-population fixation indexes using parallel computing</b>
 </br>
 
-Authors: Siavash Salek Ardestani, Seyed Milad Vahedi, Younes Miar
+<b>Authors:</b> Siavash Salek Ardestani, Seyed Milad Vahedi, Younes Miar
 </br>
 <b>Citation:</b>
 </br>
