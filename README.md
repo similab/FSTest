@@ -5,7 +5,7 @@
 </br>
 <b>2. Download and installation</b>
 </br>
-2.1. Download for linux</b>
+<b>2.1. Download for linux</b>
 </br>
 <pre>
         git clone https://github.com/Miarlab/FSTest.git;
@@ -14,7 +14,7 @@
 	chmod 775 FSTest.py
 </pre>
 </br>
-2.2. Dependencies installation</b>
+<b>2.2. Dependencies installation</b>
  </br>
 FSTest package works on python 3.8 or later versions.
 </br>
@@ -50,7 +50,7 @@ FSTest package works on python 3.8 or later versions.
 </br>
 Sample VCF and ID group input files can be downloaded form the "example" directory.</b>
  </br>
-3.1. SNP-based Fst estimation</b>
+<b>3.1. SNP-based Fst estimation</b>
  </br>
 ```py
         python FSTest_v1.0.py --vcf sheep.vcf --g ID_Group.txt --chr 26 --n 133 --m 1 --di 1 --mp 1 --dimp 1 --sl 0.05 --dpi 600 --o test.snp
@@ -67,7 +67,7 @@ Sample VCF and ID group input files can be downloaded form the "example" directo
 3. Manhattan plot of di values (snp.snpplot.di.png)
 <img src="https://github.com/Miarlab/FSTest/blob/main/result1/test.snp.snpplot.di.png" width="800"/>
 
-3.2. Window-based Fst estimation</b>
+<b>3.2. Window-based Fst estimation</b>
  </br>
 ```py
         python FSTest_v1.0.py --vcf sheep.vcf --g ID_Group.txt --chr 26 --n 133 --m 1 --di 2 --win 20 --step 5 --mp 2 --dimp 2 --sl 0.05 --dpi 600 --o test.win
