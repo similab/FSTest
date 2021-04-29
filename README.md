@@ -60,12 +60,12 @@ Sample VCF and ID group input files can be downloaded form the "example" directo
 </br>
 1. Fst values of SNPs using selected method (test.snp.snp)</br>
 2. Manhattan plot of Fst values
-<img ![test snp snpplot](https://user-images.githubusercontent.com/52033302/116605840-51ab2280-a906-11eb-8f1f-f62d9d1d1547.png)>
+<img src="https://github.com/Miarlab/FSTest/blob/main/result1/test.snp.snpplot.di.png" width="800"/>
 
 
 
 3. Manhattan plot of di values
-<img ![test snp snpplot di](https://user-images.githubusercontent.com/52033302/116604963-32f85c00-a905-11eb-8839-0abccce2cbe2.png)>
+<img src="https://raw.githubusercontent.com/nsidn98/PyThor/master/assets/mlflow.png?token=AGFGCMGE6K3JXNJRQD4ASD265DG6O" width="800"/>
 
 3.2. Window-based Fst estimation</b>
  </br>
