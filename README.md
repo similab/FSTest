@@ -4,7 +4,9 @@
 </br>
 <b>1. Description</b>
 </br>
-<b>2. Download for linux</b>
+<b>2.1. Download and installation</b>
+</br>
+2.1. Download for linux</b>
 </br>
 <pre>
         git clone https://github.com/Miarlab/FSTest.git;
@@ -13,7 +15,7 @@
 	chmod 775 FSTest.py
 </pre>
 </br>
- <b>2.2. Dependencies installation</b>
+2.2. Dependencies installation</b>
  </br>
 FSTest package works on python 3.8 or later versions.
 </br>
