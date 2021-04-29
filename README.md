@@ -56,15 +56,20 @@ Sample VCF and ID group input files can be downloaded form the "example" directo
         python FSTest_v1.0.py --vcf sheep.vcf --g ID_Group.txt --chr 26 --n 133 --m 1 --di 1 --mp 1 --dimp 1 --sl 0.05 --dpi 600 --o test.snp
 ```
 </br>
-Outputs: 1. Fst values of SNPs using selected method (test.snp.snp)
+<b>Outputs:</b>
 </br>
-         2. Manhattan plot of Fst values</br>
-![test snp snpplot](https://user-images.githubusercontent.com/52033302/116604324-57a00400-a904-11eb-9d8a-dfcc0f739cda.png)
+1. Fst values of SNPs using selected method (test.snp.snp)
+</br>
+         2. Manhattan plot of Fst values
+</br>
+![test snp snpplot](https://user-images.githubusercontent.com/52033302/116604939-2e33a800-a905-11eb-8b37-3851d6ea2862.png)
+
 </br>
 	 3. Manhattan plot of di values</br>
-![test snp snpplot di](https://user-images.githubusercontent.com/52033302/116604392-6d152e00-a904-11eb-95b0-9fea45d0780a.png)
 </br>
+![test snp snpplot di](https://user-images.githubusercontent.com/52033302/116604963-32f85c00-a905-11eb-8839-0abccce2cbe2.png)
 
+</br>
 3.2. Window-based Fst estimation</b>
  </br>
 ```py
