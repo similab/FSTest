@@ -56,7 +56,7 @@ FSTest package works on python 3.8 or later versions. Installing these dependenc
 ```
 <b>3. Examples</b>
 </br>
-Sample VCF and ID group input files can be downloaded form the "example" directory.</b>
+Sample VCF and ID group input files can be downloaded from the "example" directory.</b>
  </br>
 <b>3.1. SNP-based Fst estimation</b>
  </br>
