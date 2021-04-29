@@ -85,7 +85,7 @@ Sample VCF and ID group input files can be downloaded form the "example" directo
 3. Manhattan plot of di values (test.win.winplot.di.png)
 <img src="https://github.com/Miarlab/FSTest/blob/main/result2/test.win.winplot.di.png" width="800"/>
 
-##References:
+<b>References:</b>
 1. Akey, Joshua M., et al. "Tracking footprints of artificial selection in the dog genome." Proceedings of the National Academy of Sciences 107.3 (2010): 1160-1165.
 2. Hudson, Richard R., Montgomery Slatkin, and Wayne P. Maddison. "Estimation of levels of gene flow from DNA sequence data." Genetics 132.2 (1992): 583-589.
 3. Nei, Masatoshi. "Definition and estimation of fixation indices." Evolution 40.3 (1986): 643-645.
