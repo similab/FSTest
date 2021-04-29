@@ -3,6 +3,7 @@
 <b>Estimation of different cross-population fixation indexes using parallel computing</b>
 </br>
 <b>1. Description</b>
+</br>
 FSTest is a GitHub repository of Python scripts to identify and visualize genomic loci under natural selection using the "Fst" statistics described by Hudson, Nei, Weir & Cockerham, and wright as well as "di" transformation by Akey using parallel computing.
 </br>
 <b>2. Download and installation</b>
@@ -58,7 +59,7 @@ Sample VCF and ID group input files can be downloaded form the "example" directo
         python FSTest_v1.0.py --vcf sheep.vcf --g ID_Group.txt --chr 26 --n 133 --m 1 --di 1 --mp 1 --dimp 1 --sl 0.05 --dpi 600 --o test.snp
 ```
 </br>
-<b>Outputs:</b>
+<b>Outputs</b>
 </br>
 1. Fst and di values of SNPs using selected method (test.snp.snp)</br>
 2. Manhattan plot of Fst values (snp.snpplot.di.png)
@@ -74,7 +75,7 @@ Sample VCF and ID group input files can be downloaded form the "example" directo
 ```py
         python FSTest_v1.0.py --vcf sheep.vcf --g ID_Group.txt --chr 26 --n 133 --m 1 --di 2 --win 20 --step 5 --mp 2 --dimp 2 --sl 0.05 --dpi 600 --o test.win
 ```
-<b>Outputs:</b>
+<b>Outputs</b>
 </br>
 1. Fst and di values of windows using selected method (test.win.win)</br>
 2. Manhattan plot of Fst values (test.win.winplot.png)
@@ -85,7 +86,7 @@ Sample VCF and ID group input files can be downloaded form the "example" directo
 3. Manhattan plot of di values (test.win.winplot.di.png)
 <img src="https://github.com/Miarlab/FSTest/blob/main/result2/test.win.winplot.di.png" width="800"/>
 
-<b>References:</b>
+<b>References</b>
 1. Akey, Joshua M., et al. "Tracking footprints of artificial selection in the dog genome." Proceedings of the National Academy of Sciences 107.3 (2010): 1160-1165.
 2. Hudson, Richard R., Montgomery Slatkin, and Wayne P. Maddison. "Estimation of levels of gene flow from DNA sequence data." Genetics 132.2 (1992): 583-589.
 3. Nei, Masatoshi. "Definition and estimation of fixation indices." Evolution 40.3 (1986): 643-645.
