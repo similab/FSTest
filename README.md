@@ -65,7 +65,7 @@ Sample VCF and ID group input files can be downloaded form the "example" directo
 
 
 3. Manhattan plot of di values
-<img src="https://raw.githubusercontent.com/nsidn98/PyThor/master/assets/mlflow.png?token=AGFGCMGE6K3JXNJRQD4ASD265DG6O" width="800"/>
+<img src="https://github.com/Miarlab/FSTest/blob/main/result1/test.snp.snpplot.di.png" width="800"/>
 
 3.2. Window-based Fst estimation</b>
  </br>
