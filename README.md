@@ -97,3 +97,5 @@ Sample VCF and ID group input files can be downloaded from the "example" directo
 3. Nei, Masatoshi. "Definition and estimation of fixation indices." Evolution 40.3 (1986): 643-645.
 4. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 5. Wright, Sewall. "The genetical structure of populations." Annals of eugenics 15.1 (1949): 323-354.
+
+<b>Citation</b>
