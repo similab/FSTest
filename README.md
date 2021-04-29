@@ -75,12 +75,12 @@ Sample VCF and ID group input files can be downloaded form the "example" directo
 <b>Outputs:</b>
 </br>
 1. Fst and di values of windows using selected method (test.win.win)</br>
-2. Manhattan plot of Fst values (snp.snpplot.di.png)
+2. Manhattan plot of Fst values (test.win.winplot.png)
 <img src="https://github.com/Miarlab/FSTest/blob/main/result2/test.win.winplot.png" width="800"/>
 
 
 
-3. Manhattan plot of di values (snp.snpplot.di.png)
+3. Manhattan plot of di values (test.win.winplot.di.png)
 <img src="https://github.com/Miarlab/FSTest/blob/main/result2/test.win.winplot.di.png" width="800"/>
 
 
