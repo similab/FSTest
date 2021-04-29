@@ -4,7 +4,7 @@
 </br>
 <b>1. Description</b>
 </br>
-FSTest is a GitHub repository of Python scripts to identify and visualize genomic loci under natural selection using the "Fst" statistics described by Hudson, Nei, Weir & Cockerham, and wright as well as "di" transformation by Akey using parallel computing.
+FSTest is a script written in Python to identify and visualize genomic loci under selection using the "Fst" statistics described by Hudson, Nei, Weir & Cockerham, and wright as well as "di" transformation by Akey employing parallel computing. The software has been written by Siavash Salek Ardestani and Seyed Milad Vahedi under the supervision of Dr. Younes Miar. Efforts have being made to add new features that would make it more beneficial for selection signatures analysis.
 </br>
 <b>2. Download and installation</b>
 </br>
@@ -19,7 +19,7 @@ FSTest is a GitHub repository of Python scripts to identify and visualize genomi
 </br>
 <b>2.2. Dependencies installation</b>
  </br>
-FSTest package works on python 3.8 or later versions.
+FSTest package works on python 3.8 or later versions. Installing these dependencies prior to running FSTest are recommened:
 </br>
 <pre>
          pip install numpy
