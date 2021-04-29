@@ -8,7 +8,9 @@
 </br>
 <pre>
         git clone https://github.com/Miarlab/FSTest.git;
-	chmod 775 FSTest_v1.0.py
+	cd FSTest;
+	cd src;
+	chmod 775 FSTest.py
 </pre>
 </br>
  <b>2.2. Dependencies installation</b>
