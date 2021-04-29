@@ -58,13 +58,13 @@ Sample VCF and ID group input files can be downloaded form the "example" directo
 </br>
 <b>Outputs:</b>
 </br>
-1. Fst values of SNPs using selected method (test.snp.snp)</br>
-2. Manhattan plot of Fst values
-<img src="https://github.com/Miarlab/FSTest/blob/main/result1/test.snp.snpplot.di.png" width="800"/>
+1. Fst and di values of SNPs using selected method (test.snp.snp)</br>
+2. Manhattan plot of Fst values (snp.snpplot.di.png)
+<img src="https://github.com/Miarlab/FSTest/blob/main/result1/test.snp.snpplot.png" width="800"/>
 
 
 
-3. Manhattan plot of di values
+3. Manhattan plot of di values (snp.snpplot.di.png)
 <img src="https://github.com/Miarlab/FSTest/blob/main/result1/test.snp.snpplot.di.png" width="800"/>
 
 3.2. Window-based Fst estimation</b>
@@ -72,6 +72,16 @@ Sample VCF and ID group input files can be downloaded form the "example" directo
 ```py
         python FSTest_v1.0.py --vcf sheep.vcf --g ID_Group.txt --chr 26 --n 133 --m 1 --di 2 --win 20 --step 5 --mp 2 --dimp 2 --sl 0.05 --dpi 600 --o test.win
 ```
+<b>Outputs:</b>
+</br>
+1. Fst and di values of windows using selected method (test.win.win)</br>
+2. Manhattan plot of Fst values (snp.snpplot.di.png)
+<img src="https://github.com/Miarlab/FSTest/blob/main/result2/test.win.winplot.png" width="800"/>
+
+
+
+3. Manhattan plot of di values (snp.snpplot.di.png)
+<img src="https://github.com/Miarlab/FSTest/blob/main/result2/test.win.winplot.di.png" width="800"/>
 
 
 
