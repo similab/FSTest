@@ -58,9 +58,9 @@ Sample VCF and ID group input files can be downloaded form the "example" directo
 </br>
 Outputs: 1. Fst values of SNPs using selected method (test.snp.snp)
          2. Manhattan plot of Fst values
-         ![test snp snpplot](https://user-images.githubusercontent.com/52033302/116604324-57a00400-a904-11eb-9d8a-dfcc0f739cda.png)
+![test snp snpplot](https://user-images.githubusercontent.com/52033302/116604324-57a00400-a904-11eb-9d8a-dfcc0f739cda.png)
 	 3. Manhattan plot of di values</b>
-	 ![test snp snpplot di](https://user-images.githubusercontent.com/52033302/116604392-6d152e00-a904-11eb-95b0-9fea45d0780a.png)
+![test snp snpplot di](https://user-images.githubusercontent.com/52033302/116604392-6d152e00-a904-11eb-95b0-9fea45d0780a.png)
 
  </br>
 3.2. Window-based Fst estimation</b>
