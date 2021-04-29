@@ -1,4 +1,5 @@
-# FSTest
+![Logo](https://user-images.githubusercontent.com/52033302/116608823-04c94b00-a90a-11eb-80d4-59f7d468365c.png)
+
 <b>Estimation of different cross-population fixation indexes using parallel computing</b>
 </br>
 <b>1. Description</b>
