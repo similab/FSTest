@@ -48,17 +48,26 @@ FSTest package works on python 3.8 or later versions.
 ```
 <b>3. Examples</b>
 </br>
-3.1. SNP-based Fst estimation</b>
- </br>
 Sample VCF and ID group input files can be downloaded form the "example" directory.</b>
+ </br>
+3.1. SNP-based Fst estimation</b>
  </br>
 ```py
         python FSTest_v1.0.py --vcf sheep.vcf --g ID_Group.txt --chr 26 --n 133 --m 1 --di 1 --mp 1 --dimp 1 --sl 0.05 --dpi 600 --o test.snp
 ```
+</br>
+Outputs: 1. Fst values of SNPs using selected method (test.snp.snp)
+         2. Manhattan plot of Fst values
+         ![test snp snpplot](https://user-images.githubusercontent.com/52033302/116604324-57a00400-a904-11eb-9d8a-dfcc0f739cda.png)
+	 3. Manhattan plot of di values</b>
+	 ![test snp snpplot di](https://user-images.githubusercontent.com/52033302/116604392-6d152e00-a904-11eb-95b0-9fea45d0780a.png)
+
+ </br>
 3.2. Window-based Fst estimation</b>
  </br>
 ```py
         python FSTest_v1.0.py --vcf sheep.vcf --g ID_Group.txt --chr 26 --n 133 --m 1 --di 2 --win 20 --step 5 --mp 2 --dimp 2 --sl 0.05 --dpi 600 --o test.win
 ```
 
-![test snp snpplot di](https://user-images.githubusercontent.com/52033302/116603833-c597fb80-a903-11eb-8a7c-bb0c99ff65c8.png)
+
+
