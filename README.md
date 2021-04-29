@@ -26,7 +26,7 @@ FSTest is a script written in Python to identify and visualize genomic loci unde
 </br>
 <b>2.2. Dependencies installation</b>
  </br>
-FSTest package works on python 3.8 or later versions. Installing these dependencies prior to running FSTest are recommened:
+FSTest package works with python 3.8 or later versions. Installing following dependencies prior to running FSTest are recommened:
 </br>
 <pre>
          pip install numpy
