@@ -4,7 +4,7 @@
 </br>
 <b>1. Description</b>
 </br>
-<b>2.1. Download and installation</b>
+<b>2. Download and installation</b>
 </br>
 2.1. Download for linux</b>
 </br>
