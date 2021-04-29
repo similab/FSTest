@@ -5,7 +5,8 @@
 
 Authors: Siavash Salek Ardestani, Seyed Milad Vahedi, Younes Miar
 </br>
-
+Please cite us at:
+</br>
 <b>1. Description</b>
 </br>
 FSTest is a script written in Python to identify and visualize genomic loci under selection using the "Fst" statistics described by Hudson, Nei, Weir & Cockerham, and Wright as well as "di" transformation introduced by Akey. The software employs parallel computing to boost the calculation process and efforts have being made to add new features that would make it more beneficial for selection signatures analysis.
@@ -98,4 +99,4 @@ Sample VCF and ID group input files can be downloaded from the "example" directo
 4. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 5. Wright, Sewall. "The genetical structure of populations." Annals of eugenics 15.1 (1949): 323-354.
 
-<b>Citation</b>
+
