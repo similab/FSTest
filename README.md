@@ -60,3 +60,5 @@ Sample VCF and ID group input files can be downloaded form the "example" directo
 ```py
         python FSTest_v1.0.py --vcf sheep.vcf --g ID_Group.txt --chr 26 --n 133 --m 1 --di 2 --win 20 --step 5 --mp 2 --dimp 2 --sl 0.05 --dpi 600 --o test.win
 ```
+
+![test snp snpplot di](https://user-images.githubusercontent.com/52033302/116603833-c597fb80-a903-11eb-8a7c-bb0c99ff65c8.png)
