@@ -97,6 +97,6 @@ Sample VCF and ID group input files are available in the "example" directory.</b
 1. Akey JM, Ruhe AL, Akey DT, Wong AK, Connelly CF, Madeoy J, Nicholas TJ, Neff MW. Tracking footprints of artificial selection in the dog genome. Proceedings of the National Academy of Sciences. 2010 Jan 19;107(3):1160-5.
 2. Hudson RR, Slatkin M, Maddison WP. Estimation of levels of gene flow from DNA sequence data. Genetics. 1992 Oct 1;132(2):583-9.
 3. Nei M. Definition and estimation of fixation indices. Evolution. 1986 May 1;40(3):643-5.
-4. Weir BS, Cockerham CC. Estimating F-statistics for the analysis of population structure. evolution. 1984 Nov 1:1358-70.
-5. Wright S. The genetical structure of populations. Annals of eugenics. 1949 Jan;15(1):323-54.
+4. Weir BS, Cockerham CC. Estimating F-statistics for the analysis of population structure. Evolution. 1984 Nov 1:1358-70.
+5. Wright S. The genetical structure of populations. Annals of Eugenics. 1949 Jan;15(1):323-54.
 
