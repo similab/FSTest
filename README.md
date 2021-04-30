@@ -94,10 +94,9 @@ Sample VCF and ID group input files are available in the "example" directory.</b
 <img src="https://github.com/Miarlab/FSTest/blob/main/result2/test.win.winplot.di.png" width="800"/>
 
 <b>References</b>
-1. Akey, Joshua M., et al. "Tracking footprints of artificial selection in the dog genome." Proceedings of the National Academy of Sciences 107.3 (2010): 1160-1165.
-2. Hudson, Richard R., Montgomery Slatkin, and Wayne P. Maddison. "Estimation of levels of gene flow from DNA sequence data." Genetics 132.2 (1992): 583-589.
-3. Nei, Masatoshi. "Definition and estimation of fixation indices." Evolution 40.3 (1986): 643-645.
-4. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
-5. Wright, Sewall. "The genetical structure of populations." Annals of eugenics 15.1 (1949): 323-354.
-
+1. Akey JM, Ruhe AL, Akey DT, Wong AK, Connelly CF, Madeoy J, Nicholas TJ, Neff MW. Tracking footprints of artificial selection in the dog genome. Proceedings of the National Academy of Sciences. 2010 Jan 19;107(3):1160-5.
+2. Hudson RR, Slatkin M, Maddison WP. Estimation of levels of gene flow from DNA sequence data. Genetics. 1992 Oct 1;132(2):583-9.
+3. Nei M. Definition and estimation of fixation indices. Evolution. 1986 May 1;40(3):643-5.
+4. Weir BS, Cockerham CC. Estimating F-statistics for the analysis of population structure. evolution. 1984 Nov 1:1358-70.
+5. Wright S. The genetical structure of populations. Annals of eugenics. 1949 Jan;15(1):323-54.
 
