@@ -7,7 +7,7 @@
 <b>Citation:</b> Salek Ardestani, Siavash, Vahedi, Seyed Milad, & Miar, Younes. (2021, May 1). FSTest (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4732282
 </br>
 
-
+</br>
 <b>1. Description</b>
 </br>
 FSTest is a script written in Python to identify and visualize genomic loci under selection using the "Fst" statistics described by Hudson, Nei, Weir & Cockerham, and Wright as well as "di" transformation introduced by Akey. The software employs parallel computing to lessen the calculation time and efforts have being made to add new features that would make it more beneficial for selection signatures analysis.
