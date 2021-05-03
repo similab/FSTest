@@ -8,7 +8,7 @@
 </br>
 <b>1. Description</b>
 </br>
-FSTest is a script written in Python to identify and visualize genomic loci under selection using the "Fst" statistics described by Hudson, Nei, Weir & Cockerham, and Wright as well as "di" transformation introduced by Akey. The software employs parallel computing to lessen the calculation time and efforts have being made to add new features that would make it more beneficial for selection signatures analysis.
+FSTest is a script written in Python to identify and visualize genomic loci under selection using the "Fst" statistics described by Hudson, Nei, Weir & Cockerham, and Wright as well as "di" transformation introduced by Akey. The software employs parallel computing to lessen the calculation time and efforts have been made to add new features that would make it more beneficial for selection signatures analysis.
 </br>
 
 <b>2. Download and installation</b>
@@ -24,7 +24,7 @@ FSTest is a script written in Python to identify and visualize genomic loci unde
 </br>
 <b>2.2. Dependencies installation</b>
  </br>
-FSTest package works with python 3.8 or later versions and following libraries are required:
+FSTest package works with python 3.8 or later versions and the following libraries are required:
 </br>
 <pre>
          pip install numpy
