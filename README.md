@@ -79,7 +79,7 @@ Sample VCF and ID group input files are available in the "example" directory.</b
 </br>
 1. Fst and di values of windows using selected method (test.win.win)</br>
 2. Manhattan plot of di values (test.win.winplot.di.png)
-<img src="https://github.com/Miarlab/FSTest/blob/main/result2/test.win.winplot.di.png" width="800"/>
+<img src="https://github.com/ymiarlab/FSTest/blob/main/result2/test.win.winplot.png" width="800"/>
 
 <b>References</b>
 1. Akey JM, Ruhe AL, Akey DT, Wong AK, Connelly CF, Madeoy J, Nicholas TJ, Neff MW. Tracking footprints of artificial selection in the dog genome. Proceedings of the National Academy of Sciences. 2010 Jan 19;107(3):1160-5.
