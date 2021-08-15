@@ -66,8 +66,8 @@ Sample VCF and ID group input files are available in the "example" directory.</b
 </br>
 <b>Outputs</b>
 </br>
-1. Fst and Z(Fst) values of SNPs using selected method (test.snp.snp)</br>
-2. Manhattan plot of Z(Fst) values (snp.snpplot.di.png)
+1. Fst and Z(Fst) values of SNPs using selected method </br>
+2. Manhattan plot of Z(Fst) values 
 <img src="https://github.com/ymiarlab/FSTest/blob/main/result1/test.snp.snpplot.png" width="800"/>
 
 <b>3.2. Window-based Fst estimation</b>
@@ -77,8 +77,8 @@ Sample VCF and ID group input files are available in the "example" directory.</b
 ```
 <b>Outputs</b>
 </br>
-1. Fst and Z(Fst) values of windows using selected method (test.win.win)</br>
-2. Manhattan plot of Z(Fst) values (test.win.winplot.di.png)
+1. Fst and Z(Fst) values of windows using selected method </br>
+2. Manhattan plot of Z(Fst) values
 <img src="https://github.com/ymiarlab/FSTest/blob/main/result2/test.win.winplot.png" width="800"/>
 
 <b>References</b>
