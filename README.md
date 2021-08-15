@@ -68,7 +68,7 @@ Sample VCF and ID group input files are available in the "example" directory.</b
 </br>
 1. Fst and Z(Fst) values of SNPs using selected method (test.snp.snp)</br>
 2. Manhattan plot of di values (snp.snpplot.di.png)
-<img src="https://github.com/Miarlab/FSTest/blob/main/result1/test.snp.snpplot.di.png" width="800"/>
+<img src="https://github.com/ymiarlab/FSTest/blob/main/result1/test.snp.snpplot.png" width="800"/>
 
 <b>3.2. Window-based Fst estimation</b>
  </br>
