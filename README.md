@@ -3,7 +3,7 @@
 <b>Estimation of multiple cross-population fixation indexes using parallel computing</b>
 </br>
 </br>
-<b>Citation:</b> Salek Ardestani, Siavash, Vahedi, Seyed Milad, & Miar, Younes. (2021, May 1). FSTest: Estimation of Multiple Cross-population Fixation Indexes Using Parallel Computing (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4732282
+<b>Citation:</b> Salek Ardestani, Siavash, Vahedi, Seyed Milad & Karim Karimi. (2021, May 1). FSTest: Estimation of Multiple Cross-population Fixation Indexes Using Parallel Computing (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4732282
 </br>
 </br>
 <b>1. Description</b>
