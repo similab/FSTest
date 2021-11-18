@@ -3,9 +3,6 @@
 <b>Estimation of multiple cross-population fixation indexes using parallel computing</b>
 </br>
 </br>
-<b>Citation:</b> Salek Ardestani, Siavash, Vahedi, Seyed Milad & Karimi, Karim. (2021, May 1). FSTest: Estimation of Multiple Cross-population Fixation Indexes Using Parallel Computing (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4732282
-</br>
-</br>
 <b>1. Description</b>
 </br>
 FSTest is a Python script for identifying and visualizing genomic loci under selection using the "Fst" statistics described by Hudson, Nei, Weir & Cockerham, and Wright as well as Z-transformation introduced by Akey. The software employs parallel computing to reduce the calculation time and efforts have been made to add new features that would make it more beneficial for selection signatures analysis. FSTest can handle missing genotypes and works with both phased and unphased data.
