@@ -13,7 +13,7 @@ FSTest is a Python script for identifying and visualizing genomic loci under sel
 <b>2.1. Download for linux</b>
 </br>
 <pre>
-        git clone https://github.com/Miarlab/FSTest.git;
+        git clone https://github.com/similab/FSTest.git;
 	cd FSTest;
 	cd src;
 	chmod 775 FSTest.py
