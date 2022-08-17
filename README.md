@@ -2,6 +2,8 @@
 
 <b>Estimation of multiple cross-population fixation indexes using parallel computing</b>
 </br>
+<b>Citation</b>
+Salek Ardestani S, Vahedi SM. FSTest: an efficient tool for estimation and visualization of cross-population fixation index on variant call format files. bioRxiv. 2022 Jan 1;2022.08.16.503949. 
 </br>
 <b>1. Description</b>
 </br>
