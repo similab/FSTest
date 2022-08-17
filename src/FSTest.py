@@ -1,6 +1,6 @@
 print('**************************************************************')
 print('*                 FSTest software v 1.0                      *')
-print('*  Siavash Salek Ardestani, Seyed Milad Vahedi, Younes Miar  *')
+print('*       Siavash Salek Ardestani, Seyed Milad Vahedi          *')
 print('*                  siasia6650@gmail.com                      *')
 print('**************************************************************')
 
