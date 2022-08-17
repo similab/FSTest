@@ -5,6 +5,7 @@
 <b>Citation:</b>
 Salek Ardestani S, Vahedi SM. FSTest: an efficient tool for estimation and visualization of cross-population fixation index on variant call format files. bioRxiv. 2022 Jan 1;2022.08.16.503949. 
 </br>
+
 <b>1. Description</b>
 </br>
 FSTest is a Python script for identifying and visualizing genomic loci under selection using the "Fst" statistics described by Hudson, Nei, Weir & Cockerham, and Wright as well as Z-transformation introduced by Akey. The software employs parallel computing to reduce the calculation time and efforts have been made to add new features that would make it more beneficial for selection signatures analysis. FSTest can handle missing genotypes and works with both phased and unphased data.
