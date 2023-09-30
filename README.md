@@ -11,20 +11,9 @@ Salek Ardestani S, Vahedi SM. FSTest: an efficient tool for estimation and visua
 FSTest is a Python script for identifying and visualizing genomic loci under selection using the "Fst" statistics described by Hudson, Nei, Weir & Cockerham, and Wright as well as Z-transformation introduced by Akey. The software employs parallel computing to reduce the calculation time and efforts have been made to add new features that would make it more beneficial for selection signatures analysis. FSTest can handle missing genotypes and works with both phased and unphased data.
 </br>
 
-<b>2. Download and installation</b>
-</br>
-<b>2.1. Download for linux</b>
-</br>
-<pre>
-        git clone https://github.com/similab/FSTest.git;
-	cd FSTest;
-	cd src;
-	chmod 775 FSTest.py
-</pre>
-</br>
 
 </pre></br>
-<b>3. Parameter description</b>
+<b>2. Parameter description</b>
 </br>
 
 ```py
