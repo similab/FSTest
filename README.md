@@ -22,16 +22,7 @@ FSTest is a Python script for identifying and visualizing genomic loci under sel
 	chmod 775 FSTest.py
 </pre>
 </br>
-<b>2.2. Dependencies installation</b>
- </br>
-FSTest package works with python 3.8 or later versions and the following libraries are required:
-</br>
-<pre>
-         pip install numpy
-         pip install pandas
-         pip install modin[all]
-         pip install matplotlib
-         pip install argparse
+
 </pre></br>
 <b>3. Parameter description</b>
 </br>
