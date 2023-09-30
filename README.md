@@ -40,10 +40,8 @@ FSTest package works with python 3.8 or later versions and the following librari
 	Usage: python FSTest_v1.0.py --vcf  <in.vcf> --g <in.txt> --chr <int> --n <int> --m <int> --o <str>
 
                -h, --help   show this help message and exit
-               --vcf VCF    Input SNP VCF Format
-               --g G        Root file name of the groups file
-               --chr CHR    Number of chromosomes in the VCF file
-               --n N        Number of samples in the VCF file
+               --pop1 VCF   Input VCF file of population 1
+               --pop2 VCF   Input VCF file of population 2
                --m M        FST estimation method: 1.Hudson , 2.Nei, 3.Weir&Cockerham, 4.Wright
                --zt ZT      Fst Z-transformation: 1.SNP-based, 2.Win-based (optional)
                --win WIN    Window size (optional)
@@ -54,37 +52,3 @@ FSTest package works with python 3.8 or later versions and the following librari
                --dpi DPI    Plot dpi (optional)
                --o O        Output files prefix
 ```
-<b>3. Examples</b>
-</br>
-Sample VCF and ID group input files are available in the "example" directory.</b>
- </br>
-<b>3.1. SNP-based Fst estimation</b>
- </br>
-```py
-        python FSTest_v1.0.py --vcf sheep.vcf --g ID_Group.txt --chr 26 --n 133 --m 1 --zt 1 --mp 1 --ztmp 1 --sl 0.05 --dpi 600 --o test.snp
-```
-</br>
-<b>Outputs</b>
-</br>
-1. Fst and Z(Fst) values of SNPs using selected method </br>
-2. Manhattan plot of Z(Fst) values 
-<img src="https://github.com/ymiarlab/FSTest/blob/main/result1/test.snp.snpplot.png" width="800"/>
-
-<b>3.2. Window-based Fst estimation</b>
- </br>
-```py
-        python FSTest_v1.0.py --vcf sheep.vcf --g ID_Group.txt --chr 26 --n 133 --m 1 --zt 2 --win 20 --step 5 --mp 2 --ztmp 2 --sl 0.05 --dpi 600 --o test.win
-```
-<b>Outputs</b>
-</br>
-1. Fst and Z(Fst) values of windows using selected method </br>
-2. Manhattan plot of Z(Fst) values
-<img src="https://github.com/ymiarlab/FSTest/blob/main/result2/test.win.winplot.png" width="800"/>
-
-<b>References</b>
-1. Akey JM, Ruhe AL, Akey DT, Wong AK, Connelly CF, Madeoy J, Nicholas TJ, Neff MW. Tracking footprints of artificial selection in the dog genome. Proceedings of the National Academy of Sciences. 2010 Jan 19;107(3):1160-5.
-2. Hudson RR, Slatkin M, Maddison WP. Estimation of levels of gene flow from DNA sequence data. Genetics. 1992 Oct 1;132(2):583-9.
-3. Nei M. Definition and estimation of fixation indices. Evolution. 1986 May 1;40(3):643-5.
-4. Weir BS, Cockerham CC. Estimating F-statistics for the analysis of population structure. Evolution. 1984 Nov 1:1358-70.
-5. Wright S. The genetical structure of populations. Annals of Eugenics. 1949 Jan;15(1):323-54.
-
