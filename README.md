@@ -10,7 +10,7 @@ FSTest is a Python script for identifying and visualizing genomic loci under sel
 
 
 </pre></br>
-<b>2. Parameter description</b>
+<b> Parameter description</b>
 </br>
 
 ```py
