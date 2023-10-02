@@ -5,7 +5,7 @@
 
 <b> Description</b>
 </br>
-FSTest is a Python script for identifying and visualizing SNPs, or genomic windows loci contributing to the population differentiation using the Fst statistics described by Hudson, Nei, Weir & Cockerham, and Wright. The software supports the Z-transformation introduced by Akey. FSTest can handle missing genotypes and works with both phased and unphased data. The Fst statistics can be estimated per SNPs, or windows that are determined by a fixed number of SNPs. 
+FSTest is a Python script for identifying and visualizing loci contributing to population differentiation using the Fst statistics described by Hudson, Nei, Weir & Cockerham, and Wright. The software supports the Z-transformation introduced by Akey. FSTest can handle missing genotypes and works with both phased and unphased data. The Fst statistics can be estimated per SNPs, or windows that are determined by a fixed number of SNPs. 
 </br>
 
 
