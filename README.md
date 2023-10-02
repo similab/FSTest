@@ -17,7 +17,7 @@ FSTest is a Python script for identifying and visualizing genomic loci under sel
 </br>
 
 ```py
-	Usage: python FSTest_v1.0.py --vcf  <in.vcf> --g <in.txt> --chr <int> --n <int> --m <int> --o <str>
+	Usage: ./FSTest1.3 --pop1  <in.vcf> --pop2 <in.vcf> --m <int> --o <str>
 
                -h, --help   show this help message and exit
                --pop1 VCF   Input VCF file of population 1
