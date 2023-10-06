@@ -23,7 +23,7 @@ FSTest is a Python script for identifying and visualizing loci contributing to p
                --step STEP  Number of SNPs in each step (optional)
                --mp MP      FST Manhattan plot: 1.SNP-based, 2.Win-based (optional)
                --ztmp ZTMP  Manhattan plot of Z-transformed Fst: 1.SNP-based, 2.Win-based (optional)
-               --sl SL      Manhattan plot suggestive line (optional)
+               --sl SL      Manhattan plot suggestive line for top variants, e.g., 0.01 for top 1% (optional)
                --dpi DPI    Plot dpi (optional)
                --o O        Output files prefix
 ```
