@@ -19,8 +19,8 @@ FSTest is a Python script for identifying and visualizing loci contributing to p
                --pop2 VCF   Input VCF file of population 2
                --m M        FST estimation method: 1.Hudson , 2.Nei, 3.Weir&Cockerham, 4.Wright
                --zt ZT      Fst Z-transformation: 1.SNP-based, 2.Win-based (optional)
-               --win WIN    Window size (optional)
-               --step STEP  Step size (optional)
+               --win WIN    Number of SNPs in each window (optional)
+               --step STEP  Number of SNPs in each step (optional)
                --mp MP      FST Manhattan plot: 1.SNP-based, 2.Win-based (optional)
                --ztmp ZTMP  Manhattan plot of Z-transformed Fst: 1.SNP-based, 2.Win-based (optional)
                --sl SL      Manhattan plot suggestive line (optional)
