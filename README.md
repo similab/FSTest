@@ -3,7 +3,7 @@
 
 <b> Description</b>
 </br>
-FSTest identifies loci contributing to population differentiation using the Fst statistics described by Hudson, Nei, Weir & Cockerham, and Wright. The software supports the Z-transformation introduced by Akey. FSTest can handle missing genotypes and works with both phased and unphased data. The Fst statistics can be estimated per SNPs, or windows that are determined by a fixed number of SNPs. 
+FSTest can identify loci contributing to population differentiation using the Fst statistics described by Hudson, Nei, Weir & Cockerham, and Wright. The software supports the Z-transformation introduced by Akey. FSTest can handle missing genotypes and works with both phased and unphased data. The Fst statistics can be estimated per SNPs, or windows that are determined by a fixed number of SNPs. 
 </br>
 
 
