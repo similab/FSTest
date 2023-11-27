@@ -21,9 +21,5 @@ FSTest can identify loci contributing to population differentiation using the Fs
                --zt ZT      Fst Z-transformation: 1.SNP-based, 2.Win-based (optional)
                --win WIN    Number of SNPs in each window (optional)
                --step STEP  Number of SNPs in each step (optional)
-               --mp MP      FST Manhattan plot: 1.SNP-based, 2.Win-based (optional)
-               --ztmp ZTMP  Manhattan plot of Z-transformed Fst: 1.SNP-based, 2.Win-based (optional)
-               --sl SL      Manhattan plot suggestive line for top variants, e.g., 0.01 for top 1% (optional)
-               --dpi DPI    Plot dpi (optional)
                --o O        Output files prefix
 ```
