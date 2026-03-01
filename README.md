@@ -28,7 +28,7 @@ FSTest can identify loci contributing to population differentiation using the Fs
 </br>
 Vahedi, S. M., & Salek Ardestani, S. (2024). FSTest: an efficient tool for cross-population fixation index estimation on variant call format files. Journal of Genetics, 103(1), 1-5.
 </br>
-
+---------------------------------------------------------------------------------------------------------------------------------------
 </br>
 MIT License for FSTest
 
