@@ -23,8 +23,8 @@ FSTest can identify loci contributing to population differentiation using the Fs
                --step STEP  Number of SNPs in each step (optional)
                --o O        Output files prefix
 ```
----------------------------------------------------------------------------------------------------------------------------------------
 
+---------------------------------------------------------------------------------------------------------------------------------------
 </br>
 MIT License for FSTest
 
